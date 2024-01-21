@@ -6,4 +6,4 @@ This is a console game
 
 ## How to Run
 
-To run this project, [click here] https://www.onlinegdb.com/online_c++_compiler
+To run this project, [click here] 
